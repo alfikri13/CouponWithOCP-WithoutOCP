@@ -1,0 +1,11 @@
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp2.1\CouponWithOCP.deps.json
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp2.1\CouponWithOCP.runtimeconfig.json
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp2.1\CouponWithOCP.runtimeconfig.dev.json
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp2.1\CouponWithOCP.dll
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp2.1\CouponWithOCP.pdb
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp2.1\CouponWithOCP.csprojAssemblyReference.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp2.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp2.1\CouponWithOCP.AssemblyInfoInputs.cache
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp2.1\CouponWithOCP.AssemblyInfo.cs
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp2.1\CouponWithOCP.dll
+D:\DOCUMENT\SEMESTER 3\Pemrograman Lanjut\Praktikum\CouponWithoutOCP\CouponWithOCP\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp2.1\CouponWithOCP.pdb
